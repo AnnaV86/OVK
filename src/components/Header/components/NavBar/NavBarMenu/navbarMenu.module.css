@@ -1,0 +1,25 @@
+.navbarMenu {
+	width: 80%;
+	display: flex;
+	justify-content: space-between;
+}
+
+.link {
+	color: black;
+	text-decoration: none;
+	color: rgb(47, 47, 124);
+}
+
+.link:last-child {
+	color: #ff5858;
+}
+
+.link:hover {
+	transition-duration: 1s;
+	transform: scale(1.5, 1.5);
+	color: rgb(65, 108, 251);
+}
+
+.link:last-child:hover {
+	color: #ff5858;
+}

@@ -1,0 +1,23 @@
+@import url(./vendor/normalize.css);
+@import url(./vendor/fonts.css);
+
+body {
+	margin: 0;
+	font-family: 'ProximaSoft', Arial, sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+#root {
+	min-height: 100vh;
+	background: rgb(171, 218, 255);
+	background: linear-gradient(
+		49deg,
+		rgba(171, 218, 255, 1) 0%,
+		rgba(255, 254, 255, 1) 45%,
+		rgba(171, 218, 255, 1) 100%
+	);
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}

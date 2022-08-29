@@ -1,0 +1,26 @@
+@font-face {
+	font-family: 'ProximaSoft';
+	font-style: normal;
+	font-weight: 500;
+	font-display: swap;
+	src: url('./fonts/ProximaSoft-Medium.woff2') format('woff2'),
+		url('./fonts/ProximaSoft-Medium.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'ProximaSoft';
+	font-style: normal;
+	font-weight: 800;
+	font-display: swap;
+	src: url('./fonts/ProximaSoft-ExtraBold.woff2') format('woff2'),
+		url('./fonts/ProximaSoft-ExtraBold.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'ProximaSoft';
+	font-style: normal;
+	font-weight: 900;
+	font-display: swap;
+	src: url('./fonts/ProximaSoft-Black.woff2') format('woff2'),
+		url('./fonts/ProximaSoft-Black.woff') format('woff');
+}
