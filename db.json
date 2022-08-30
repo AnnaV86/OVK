@@ -1,10 +1,70 @@
 {
-	"users": [
-		{ "name": "Vasya", "age": 39, "id": "1fgkd" },
-		{ "name": "Masha", "age": 25, "id": "er2df" }
+	"pages": [
+		{
+			"id": "1",
+			"name": "Мультфильмы",
+			"about": "Обучающие мультфильмы для ребят. Яркие, красочные и полезные",
+			"img": "../../images/3а.jpg"
+		},
+		{
+			"id": "2",
+			"name": "Задания",
+			"about": "Развивающие задания. Помогают преподавателям и воспитателям проводить занятия с детьми.",
+			"img": "../../images/3а.jpg"
+		},
+		{
+			"id": "3",
+			"name": "Статьи",
+			"about": "Полезные статьи",
+			"img": "../../images/3а.jpg"
+		},
+		{
+			"id": "4",
+			"name": "Творчество",
+			"about": "Идеи для творчества с детьми",
+			"img": "../../images/3а.jpg"
+		},
+		{
+			"id": "5",
+			"name": "Общение",
+			"about": "Общаемся и делимся опытом по развитию детей",
+			"img": "../../images/3а.jpg"
+		},
+		{
+			"id": "6",
+			"name": "О нас",
+			"about": "Наши соц.сети",
+			"img": "../../images/3а.jpg"
+		}
 	],
-	"cities": [
-		{ "city": "Moscow", "population": 12632409, "id": "adf21f" },
-		{ "city": "London", "population": 9002488, "id": "bdfd28" }
+	"cartoons": [
+		{
+			"id": "1",
+			"name": "Машинка Лёля. Сравнения",
+			"tag": "Лёля машинки",
+			"duration": "6.30",
+			"link": "https://www.youtube.com/watch?v=VW6dKwXwr-U"
+		},
+		{
+			"id": "2",
+			"name": "Машинка Лёля. Сравнения",
+			"tag": "Лёля машинки",
+			"duration": "6.30",
+			"link": "https://www.youtube.com/watch?v=VW6dKwXwr-U"
+		},
+		{
+			"id": "3",
+			"name": "Машинка Лёля. Сравнения",
+			"tag": "Лёля машинки",
+			"duration": "6.30",
+			"link": "https://www.youtube.com/watch?v=VW6dKwXwr-U"
+		},
+		{
+			"id": "4",
+			"name": "Машинка Лёля. Сравнения",
+			"tag": "Лёля машинки",
+			"duration": "6.30",
+			"link": "https://www.youtube.com/watch?v=VW6dKwXwr-U"
+		}
 	]
 }

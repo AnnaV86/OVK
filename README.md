@@ -2,7 +2,8 @@
 
 # Технологии
 
-- HTML
-- CSS
-- React
-- Redux
+-   HTML
+-   CSS
+-   React
+-   Redux
+-   TypeScript

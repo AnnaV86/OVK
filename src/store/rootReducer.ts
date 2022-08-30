@@ -1,8 +1,8 @@
 import { combineReducers } from '@reduxjs/toolkit';
-import { citiesReducer } from './modules/cities';
-import { usersReducer } from './modules/users';
+import { cartoonsReducer } from './modules/cartoons';
+import { pagesReducer } from './modules/pages';
 
 export const rootReducer = combineReducers({
-	users: usersReducer,
-	cities: citiesReducer
+	pages: pagesReducer,
+	cartoons: cartoonsReducer
 });
